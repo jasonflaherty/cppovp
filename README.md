@@ -1,2 +1,2 @@
-# cppovp
-Customizable Political Point of View Predictor. Take a Politicians views, insert them into the CPPOVP system and get a prediction on the results of their time spent in office.
+# Customizable Political Point of View Predictor (CPPOVP)
+Definately need a better acronym than CPPOVP... The idea here is to take a Politicians views from their "talking points", insert them into the CPPOVP system and get a prediction on the results of their time spent in office if elected. I'm thinking we can somehow take talking points from past Presidents for example and see how the system turns out...
